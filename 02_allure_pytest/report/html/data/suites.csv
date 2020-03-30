@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_allure.Test1.test_password","2",""
+"passed","test_allure.Test1.test_username","2",""
+"passed","test_allure.Test1.test_login","4",""

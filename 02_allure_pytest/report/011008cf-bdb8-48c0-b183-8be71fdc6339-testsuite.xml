@@ -1,0 +1,63 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1585486027128" stop="1585486027138">
+  <name>test_allure</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1585486027128" status="passed" stop="1585486027132">
+      <name>Test1.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11388-MainThread"/>
+        <label name="host" value="DESKTOP-87U82QF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1585486027131" status="passed" stop="1585486027132">
+          <name>title=测试登录的脚本</name>
+          <title>title=测试登录的脚本</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1585486027133" status="passed" stop="1585486027135">
+      <name>Test1.test_username</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11388-MainThread"/>
+        <label name="host" value="DESKTOP-87U82QF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1585486027135" status="passed" stop="1585486027135">
+          <name>测试用户名的脚本</name>
+          <title>测试用户名的脚本</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1585486027136" status="passed" stop="1585486027138">
+      <name>Test1.test_password</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11388-MainThread"/>
+        <label name="host" value="DESKTOP-87U82QF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1585486027138" status="passed" stop="1585486027138">
+          <name>title=测试密码的脚本</name>
+          <title>title=测试密码的脚本</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
